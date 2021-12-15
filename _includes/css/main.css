@@ -234,6 +234,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   z-index:6;
   width:240px;
+  color: #980043;!important
 }
 
 .sectiondivider.imaged {
