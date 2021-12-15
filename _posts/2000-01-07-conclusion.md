@@ -2,7 +2,7 @@
 title: "Conclusion"
 bg: turquoise
 color: white
-fa-icon: film
+fa-icon: file-text-o
 ---
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
