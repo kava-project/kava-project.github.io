@@ -177,6 +177,7 @@ nav ul li:hover, nav ul li.active {
 
 .section:first-of-type {
     padding-top: 69px;
+    padding-bottom: 0px;
 }
 
 
