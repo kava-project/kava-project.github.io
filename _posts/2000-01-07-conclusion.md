@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-bg: turquoise
+bg: one
 color: white
 fa-icon: file-text-o
 ---
