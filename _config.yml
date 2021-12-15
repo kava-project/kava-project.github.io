@@ -32,6 +32,13 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  one:     '#d4b9da'
+  two:     '#c994c7'
+  three:      '#df65b0'
+  four:     '#dd1c77'
+  conclusion:    '#980043'
+  introduction:    '#f1eef6'
+  turquoise: '#0fbfcf'
 
 kramdown:
   auto_ids:  false
