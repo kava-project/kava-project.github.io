@@ -4,6 +4,9 @@ bg: one
 color: white
 fa-icon: file-text-o
 ---
+About the results
+About the methodology. Bert.
+About the team
 
 Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
 
