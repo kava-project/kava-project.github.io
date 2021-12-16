@@ -66,6 +66,7 @@ hr {
 
 .container { 
   word-wrap: break-word;
+  width: 90%;
 }
 .container:first-of-type {
   width: 100%!important;
