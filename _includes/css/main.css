@@ -82,8 +82,6 @@ hr {
 .container p, .container ol, .container ul {
   font-size: 17px;
   padding: 0 5%;
-  margin: 20px 0 20px 0;
-
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
@@ -175,7 +173,7 @@ nav ul li:hover, nav ul li.active {
     border: 1px solid;
     border-radius: 5px;
     padding: 10px;
-    margin: 0 20%;
+    margin: 20px 20%;
     border-color: #0096C7;
     background-color: rgba(0, 150, 199, 0.1);
 }
