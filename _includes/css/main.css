@@ -82,6 +82,8 @@ hr {
 .container p, .container ol, .container ul {
   font-size: 17px;
   padding: 0 5%;
+  margin: 20px 0 20px 0;
+
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
