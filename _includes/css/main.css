@@ -177,6 +177,9 @@ nav ul li:hover, nav ul li.active {
     border-color: #0096C7;
     background-color: rgba(0, 150, 199, 0.1);
 }
+.note p:first-of-type {
+    margin-top: 20px!important;
+}
 
 /* ----- sections/articles ----- */
 
