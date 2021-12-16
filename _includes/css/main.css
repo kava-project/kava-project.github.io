@@ -181,6 +181,12 @@ nav ul li:hover, nav ul li.active {
     margin-top: 20px!important;
 }
 
+.graphs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;	
+}
+
 /* ----- sections/articles ----- */
 
 .section {
