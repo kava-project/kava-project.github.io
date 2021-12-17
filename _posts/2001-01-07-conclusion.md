@@ -4,23 +4,12 @@ bg: one
 color: white
 fa-icon: file-text-o
 ---
-About the results
-About the methodology. Bert.
-About the team
+# Conclusions
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
+## Summary of the project
+Throughout this project, we have attempted to use methods mentioned in the course on the Quotebank dataset. The goal of using these methods was to filter relevant quotes, connect them to identities of speakers, and quantify these quotes in terms of their sentiment, topics mentioned and demographics. Questions Q1-Q3 have given us a general look over the picture of Brexit debate that we have created, while question Q4 delved deeper into this look, trying to connect what we have seen with real life events of the debate.
 
-### Embed your video like this:
-{: .left}
+## Results obtained
+The results obtained give us some insight into the debate surrounding Britain's decision to leave the European Union. Based on our data, we could note that they show us a picture of discussion based mostly on positive sentiments. Statements with positive statements tended to lean towards topics of achieving Brexit and Free Trade Agreements, while negative statements focused on the fear of no-deal Brexit and general uncertainty - both types of statements also focused on the issue of Good Friday Agreement on the island of Ireland. Looking at demographics of our speakers, we have noticed that they tended to be British, overwhelmingly male, politicians. After delving more into how answers to these questions have changed over the time, we have been able to notice spikes in quotes recorded and connect them to important events of Brexit process, such as announcing referendum date, first Withdrawal Agreement being agreed, or General Elections post-referendum. We have also seen shift in arguments over time: from border, to economy, to Northern Ireland and Withdrawal Agreement form. We have also taken a look at demographics over time, noting interesting information the data has shown.
 
-{% highlight html linenos=table %}
-<div class="icontain">
-  <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
-</div>
-{% endhighlight %}
 
-It'll play like this funny video below! Try resizing the page!
-
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
-
-<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>
