@@ -30,9 +30,8 @@
 		border: 0;
 		font-size: 100%;
 		text-align: justify;
-		font-family: 'Lora', 'Times New Roman', serif;
-		font-size: 1.125rem;
-		color: #404040;
+		font-family: 'Lora', 'Times New Roman', serif!important;
+		color: #404040!important;
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
