@@ -1,11 +1,9 @@
 ---
 title: "Conclusion"
-bg: one
-color: white
+bg: introduction
+color: black
 fa-icon: file-text-o
 ---
-# Conclusions
-
 ## Summary of the project
 Throughout this project, we have attempted to use methods mentioned in the course on the Quotebank dataset. The goal of using these methods was to filter relevant quotes, connect them to identities of speakers, and quantify these quotes in terms of their sentiment, topics mentioned and demographics. Questions Q1-Q3 have given us a general look over the picture of Brexit debate that we have created, while question Q4 delved deeper into this look, trying to connect what we have seen with real life events of the debate.
 
