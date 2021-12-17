@@ -15,10 +15,10 @@ The results obtained give us some insight into the debate surrounding Britain's 
   <br>
   <tbody>
     <tr>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alicia.png" width="120"></td>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alvaro.png" width="120"></td>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-kamil.png" width="120"></td>
-            <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.png" width="120"></td>
+      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alicia.jpg" width="120"></td>
+      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alvaro.jpg" width="120"></td>
+      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-kamil.jpg" width="120"></td>
+            <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.jpg" width="120"></td>
 
       
    </tr>
