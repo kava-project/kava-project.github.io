@@ -29,7 +29,10 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		text-align: justify;
+		font-family: 'Lora', 'Times New Roman', serif;
+		font-size: 1.125rem;
+		color: #404040;
 		vertical-align: baseline; }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block; }
