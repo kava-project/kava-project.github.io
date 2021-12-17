@@ -67,7 +67,6 @@ hr {
 .container { 
   word-wrap: break-word;
   width: 90%;
-  font-family: 'Lora', 'Times New Roman', serif;
 }
 .container:first-of-type {
   width: 100%!important;
