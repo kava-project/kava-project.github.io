@@ -15,10 +15,10 @@ The results obtained give us some insight into the debate surrounding Britain's 
   <br>
   <tbody>
     <tr>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alicia.jpg" width="120"></td>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alvaro.jpg" width="120"></td>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-kamil.jpg" width="120"></td>
-      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.jpg" width="120"></td>
+      <td style="text-align:center; padding: 0 10px;"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alicia.jpg" width="120"></td>
+      <td style="text-align:center; padding: 0 10px;"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alvaro.jpg" width="120"></td>
+      <td style="text-align:center; padding: 0 10px;"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-kamil.jpg" width="120"></td>
+      <td style="text-align:center; padding: 0 10px;"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.jpg" width="120"></td>
     </tr>
     <tr>
       <td style="text-align:center">Alicia Soria</td>
