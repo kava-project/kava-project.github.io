@@ -18,17 +18,13 @@ The results obtained give us some insight into the debate surrounding Britain's 
       <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alicia.jpg" width="120"></td>
       <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-alvaro.jpg" width="120"></td>
       <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-kamil.jpg" width="120"></td>
-            <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.jpg" width="120"></td>
-
-      
-   </tr>
-  </tbody>
-  <tfoot>
+      <td style="text-align:center"><img style="display:block;margin-left:auto;margin-right:auto;" src="/assets/img/team-victor.jpg" width="120"></td>
+    </tr>
     <tr>
       <td style="text-align:center">Alicia Soria</td>
       <td style="text-align:center">Álvaro Bautista</td>
       <td style="text-align:center">Kamil Czerniak</td>
       <td style="text-align:center">Víctor González</td>
-   </tr>
-  </tfoot>
+    </tr>
+  </tbody>
 </table>  
