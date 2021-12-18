@@ -28,12 +28,7 @@ html { box-sizing: border-box; }
 
 /* ----- code, syntax highlighting, etc ----- */
 
-/* code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; } */
-code, pre { text-align:justify;
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-weight: 400;
-   font-size: 1.0625rem;
-    line-height: 1.5625rem;}
+code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 
 /* spesifically inline code */
@@ -84,9 +79,6 @@ hr {
   margin-bottom: 20px;
   text-align: center;
   padding: 0 4%;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
-  line-height: 1.1;
 }
 .container p, .container ol, .container ul {
   font-size: 1.125rem;	
@@ -401,6 +393,4 @@ nav ul li:hover, nav ul li.active {
 
 body {
   text-align:justify;
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
 }
