@@ -85,6 +85,8 @@ hr {
   text-align: center;
   padding: 0 4%;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
 }
 .container p, .container ol, .container ul {
   font-size: 1.125rem;	
