@@ -30,7 +30,10 @@ html { box-sizing: border-box; }
 
 /* code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; } */
 code, pre { text-align:justify;
-  font-family: 'Lora', 'Times New Roman', serif; }
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-weight: 400;
+   font-size: 1.0625rem;
+    line-height: 1.5625rem;}
 
 
 /* spesifically inline code */
