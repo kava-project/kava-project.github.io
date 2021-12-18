@@ -389,3 +389,9 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+body {
+  text-align:justify;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 1.125rem;
+}
